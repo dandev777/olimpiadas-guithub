@@ -18,5 +18,11 @@ let dados = [
     {
         titulo: "Marta",
         descricao: "Considerada a maior jogadora de futebol feminino de todos os tempos.",
-        link: "https://pt.wikipedia.org/wiki/Marta_(futebolista)"},    
+        link: "https://pt.wikipedia.org/wiki/Marta_(futebolista)"},
+     {
+        titulo: "Novo Atleta",
+        descricao: "Considerada a maior jogadora de futebol feminino de todos os tempos.",
+        link: "https://pt.wikipedia.org/wiki/Marta_(futebolista)"},
+    
+    
 ];
